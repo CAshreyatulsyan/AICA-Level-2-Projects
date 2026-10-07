@@ -1,12 +1,11 @@
-# Versions are pinned to long-established releases: Windows Smart App Control /
-# Application Control trusts widely-used files and may block very new ones.
-streamlit>=1.40,<2
-yfinance>=0.2.54
-pandas>=2.2.3,<3
-numpy>=1.26,<2.4
-scikit-learn>=1.4,<1.8
-scipy>=1.11,<1.17
-plotly>=5.20,<7
-requests>=2.31,<3
-beautifulsoup4>=4.12,<5
-lxml>=5.0,<7
+streamlit>=1.30.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+xlsxwriter>=3.1.0
+openpyxl>=3.1.0
+python-pptx>=0.6.21
+bcrypt>=4.0.0
+pytest>=7.4.0
+python-dateutil>=2.8.2
